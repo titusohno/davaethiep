@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://baethahwai.tayciryahmed.com/sitemap.xml
